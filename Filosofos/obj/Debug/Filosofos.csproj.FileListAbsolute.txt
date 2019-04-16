@@ -1,0 +1,9 @@
+c:\users\hugob\documents\visual studio 2017\Projects\Filosofos\Filosofos\bin\Debug\Filosofos.exe.config
+c:\users\hugob\documents\visual studio 2017\Projects\Filosofos\Filosofos\bin\Debug\Filosofos.exe
+c:\users\hugob\documents\visual studio 2017\Projects\Filosofos\Filosofos\bin\Debug\Filosofos.pdb
+c:\users\hugob\documents\visual studio 2017\Projects\Filosofos\Filosofos\obj\Debug\Filosofos.csprojResolveAssemblyReference.cache
+c:\users\hugob\documents\visual studio 2017\Projects\Filosofos\Filosofos\obj\Debug\Filosofos.Form1.resources
+c:\users\hugob\documents\visual studio 2017\Projects\Filosofos\Filosofos\obj\Debug\Filosofos.Properties.Resources.resources
+c:\users\hugob\documents\visual studio 2017\Projects\Filosofos\Filosofos\obj\Debug\Filosofos.csproj.GenerateResource.Cache
+c:\users\hugob\documents\visual studio 2017\Projects\Filosofos\Filosofos\obj\Debug\Filosofos.exe
+c:\users\hugob\documents\visual studio 2017\Projects\Filosofos\Filosofos\obj\Debug\Filosofos.pdb
